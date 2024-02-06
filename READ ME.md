@@ -2,41 +2,25 @@
 
 ## user requirements - not done
 
-1. **Company Overview:**
-   - Brief introduction to Hot Beans Web, highlighting mission and values.
-
-2. **Trainee Web Developer Profiles:**
+* **Trainee Web Developer Profiles:**
    - Individual profiles of existing trainee web developers.
-   - Brief descriptions of their experiences and projects.
 
-3. **Job Listings:**
+* **Job Listings:**
    - Clear job specifications with essential qualifications.
-   - Easy-to-understand responsibilities for each position.
 
-4. **Online Application Form:**
-   - Simple form for applying, including basic personal details and resume upload.
+* **Online Application Form:**
+   - Simple form for applying, including basic personal details and file upload.
 
-5. **Links to Web Development Courses:**
-   - Curated list of links to relevant web development courses.
-   - Guidance on how these courses align with career opportunities at Hot Beans Web.
 
-6. **Mobile-Friendly Design:**
+* **Mobile-Friendly Design:**
    - Ensure the website works well on both desktop and mobile devices.
 
-7. **Contact Information:**
+* **Contact Information:**
    - Visible contact details for user inquiries or support.
 
-8. **Easy Navigation:**
+* **Easy Navigation:**
    - Clear and intuitive navigation for a straightforward user experience.
 
-9. **Security Assurance:**
-   - Assure users of secure handling of submitted application data.
-
-10. **Feedback Form:**
-    - Provide a simple form for users to share feedback or ask questions.
-
-11. **Basic Branding:**
-    - Consistent branding elements for a professional look.
 
 ## job specifications and required qualifications
 
@@ -125,3 +109,8 @@ Stacy is proficient in HTML, CSS, and JavaScript, and she continually expands he
 
 Beyond the Code:
 Outside the realm of coding, Stacy indulges in her passion for visual arts and photography. She finds inspiration in everyday experiences, which often translates into unique design concepts for her web projects. Stacy believes that a well-rounded perspective contributes to creating websites that not only function seamlessly but also captivate users visually.
+
+
+
+
+
