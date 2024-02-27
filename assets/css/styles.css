@@ -38,6 +38,7 @@ footer {
 .img {
     display: flex;
     width: 100%;
+    max-width: 500px;
 }
 
 .fixed {
