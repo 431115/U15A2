@@ -52,6 +52,12 @@ p {
     font-style: normal;
 }
 
+ol {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .p {
     display: flex;
     flex: row;
