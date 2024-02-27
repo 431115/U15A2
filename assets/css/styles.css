@@ -1,8 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #b9b9b9;
 }
 
 header {
@@ -10,6 +9,7 @@ header {
     color: #fff;
     padding: 10px;
     text-align: center;
+    width: 100%;
 }
 
 nav {
@@ -17,10 +17,13 @@ nav {
     color: #fff;
     padding: 10px;
     text-align: center;
+    width: 100%;
 }
 
 section {
     padding: 20px;
+    padding-top: 140px;
+    padding-bottom: 80px;
 }
 
 footer {
@@ -32,3 +35,47 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.img {
+    display: flex;
+    width: 100%;
+    max-width: 500px;
+}
+
+.fixed {
+    position: fixed;
+    width: 100%;
+}
+
+p {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p {
+    display: flex;
+    flex: row;
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
